@@ -1,0 +1,1 @@
+print('Sofiia Hrynevych, KN-2024')
